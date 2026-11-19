@@ -1,0 +1,118 @@
+﻿id_serie;fonte;codigo_origem;id_episodio;ponto;t_rel;data_ref;valor_edicao;valor_fonte;dif_relativa;resultado;coletado_em;url
+br_acoes;Ipeadata;GM12_IBVSP12;1981-1982;pico;0;1981-07-01;2.00207762772688;2.00207762772688;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;1981-1982;pior valor;17;1982-12-01;3.63864491844417;3.63864491844417;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;1981-1982;fim da janela;48;1985-07-01;18.350988700565;18.350988700565;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;2007-2009;pico;0;2007-12-01;1.39669237850364;1.39669237850364;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;2007-2009;pior valor;11;2008-11-01;-1.77416324449097;-1.77416324449097;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;2007-2009;fim da janela;48;2011-12-01;-0.212747252747247;-0.212747252747247;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;2020;pico;0;2020-02-01;-8.42907499055037;-8.42907499055037;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;2020;pior valor;1;2020-03-01;-29.9043888952886;-29.9043888952886;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_acoes;Ipeadata;GM12_IBVSP12;2020;fim da janela;48;2024-02-01;0.99254806186988;0.99254806186988;0.0;CONFERE;2026-11-18 03:03:47.793512;http://www.ipeadata.gov.br/
+br_cambio_real;FRED;CCRETT01BRM661N;1981-1982;pico;0;1981-07-01;134.2248;134.2248;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;1981-1982;pior valor;22;1983-05-01;99.66426;99.66426;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;1981-1982;fim da janela;48;1985-07-01;83.81196;83.81196;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;2007-2009;pico;0;2007-12-01;121.422;121.422;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;2007-2009;pior valor;12;2008-12-01;99.2188;99.2188;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;2007-2009;fim da janela;48;2011-12-01;135.3619;135.3619;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;2020;pico;0;2020-02-01;91.71416;91.71416;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;2020;pior valor;8;2020-10-01;70.97396;70.97396;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_cambio_real;FRED;CCRETT01BRM661N;2020;fim da janela;48;2024-02-01;93.85554;93.85554;0.0;CONFERE;2026-11-18 03:03:42.297394;https://fred.stlouisfed.org/series/CCRETT01BRM661N
+br_desemprego_pme_antiga;Ipeadata;PME12_TDA12;1981-1982;pico;0;1981-07-01;8.26;8.26;0.0;CONFERE;2026-11-18 03:03:37.936600;http://www.ipeadata.gov.br/
+br_desemprego_pme_antiga;Ipeadata;PME12_TDA12;1981-1982;pior valor;4;1981-11-01;7.66;7.66;0.0;CONFERE;2026-11-18 03:03:37.936600;http://www.ipeadata.gov.br/
+br_desemprego_pme_antiga;Ipeadata;PME12_TDA12;1981-1982;fim da janela;48;1985-07-01;5.97;5.97;0.0;CONFERE;2026-11-18 03:03:37.936600;http://www.ipeadata.gov.br/
+br_desemprego_pme_nova;Ipeadata;PAN12_TD12;2007-2009;pico;0;2007-12-01;7.4;7.4;0.0;CONFERE;2026-11-18 03:03:38.179964;http://www.ipeadata.gov.br/
+br_desemprego_pme_nova;Ipeadata;PAN12_TD12;2007-2009;pior valor;0;2007-12-01;7.4;7.4;0.0;CONFERE;2026-11-18 03:03:38.179964;http://www.ipeadata.gov.br/
+br_desemprego_pme_nova;Ipeadata;PAN12_TD12;2007-2009;fim da janela;48;2011-12-01;4.7;4.7;0.0;CONFERE;2026-11-18 03:03:38.179964;http://www.ipeadata.gov.br/
+br_desemprego_pnadc;IBGE/SIDRA;6381;2020;pico;0;2020-02-01;11.7;11.7;0.0;CONFERE;2026-11-18 03:03:38.556791;https://sidra.ibge.gov.br/tabela/6381
+br_desemprego_pnadc;IBGE/SIDRA;6381;2020;pior valor;7;2020-09-01;14.9;14.9;0.0;CONFERE;2026-11-18 03:03:38.556791;https://sidra.ibge.gov.br/tabela/6381
+br_desemprego_pnadc;IBGE/SIDRA;6381;2020;fim da janela;48;2024-02-01;7.8;7.8;0.0;CONFERE;2026-11-18 03:03:38.556791;https://sidra.ibge.gov.br/tabela/6381
+br_export_eua;Comex Stat;exportação, país 249 (Estados Unidos);2007-2009;pico;0;2007-12-01;2207440608.0;2207440608.0;0.0;CONFERE;2026-11-18 03:03:45.463288;https://comexstat.mdic.gov.br/
+br_export_eua;Comex Stat;exportação, país 249 (Estados Unidos);2007-2009;pior valor;17;2009-05-01;1067393825.0;1067393825.0;0.0;CONFERE;2026-11-18 03:03:45.463288;https://comexstat.mdic.gov.br/
+br_export_eua;Comex Stat;exportação, país 249 (Estados Unidos);2007-2009;fim da janela;48;2011-12-01;2603891489.0;2603891489.0;0.0;CONFERE;2026-11-18 03:03:45.463288;https://comexstat.mdic.gov.br/
+br_export_eua;Comex Stat;exportação, país 249 (Estados Unidos);2020;pico;0;2020-02-01;1649374620.0;1649374620.0;0.0;CONFERE;2026-11-18 03:03:45.463288;https://comexstat.mdic.gov.br/
+br_export_eua;Comex Stat;exportação, país 249 (Estados Unidos);2020;pior valor;4;2020-06-01;1509545153.0;1509545153.0;0.0;CONFERE;2026-11-18 03:03:45.463288;https://comexstat.mdic.gov.br/
+br_export_eua;Comex Stat;exportação, país 249 (Estados Unidos);2020;fim da janela;48;2024-02-01;2605584121.0;2605584121.0;0.0;CONFERE;2026-11-18 03:03:45.463288;https://comexstat.mdic.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;1981-1982;pico;0;1981-07-01;2052.0;2052.0;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;1981-1982;pior valor;15;1982-10-01;1606.0;1606.0;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;1981-1982;fim da janela;48;1985-07-01;2184.0;2184.0;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;2007-2009;pico;0;2007-12-01;14215.095053;14215.095053;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;2007-2009;pior valor;17;2009-05-01;11921.111818;11921.111818;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;2007-2009;fim da janela;48;2011-12-01;21999.062581;21999.062581;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;2020;pico;0;2020-02-01;15356.44952;15356.44952;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;2020;pior valor;6;2020-08-01;17403.775488;17403.775488;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_export_total;Ipeadata;SECEX12_XVTOT12;2020;fim da janela;48;2024-02-01;23348.254025;23348.254025;0.0;CONFERE;2026-11-18 03:03:42.570577;http://www.ipeadata.gov.br/
+br_inflacao;IBGE/SIDRA;1737;1981-1982;pico;0;1981-07-01;104.78;104.78;0.0;CONFERE;2026-11-18 03:03:41.546507;https://sidra.ibge.gov.br/tabela/1737
+br_inflacao;IBGE/SIDRA;1737;1981-1982;fim da janela;48;1985-07-01;216.44;216.44;0.0;CONFERE;2026-11-18 03:03:41.546507;https://sidra.ibge.gov.br/tabela/1737
+br_inflacao;IBGE/SIDRA;1737;2007-2009;pico;0;2007-12-01;4.46;4.46;0.0;CONFERE;2026-11-18 03:03:41.546507;https://sidra.ibge.gov.br/tabela/1737
+br_inflacao;IBGE/SIDRA;1737;2007-2009;fim da janela;48;2011-12-01;6.5;6.5;0.0;CONFERE;2026-11-18 03:03:41.546507;https://sidra.ibge.gov.br/tabela/1737
+br_inflacao;IBGE/SIDRA;1737;2020;pico;0;2020-02-01;4.01;4.01;0.0;CONFERE;2026-11-18 03:03:41.546507;https://sidra.ibge.gov.br/tabela/1737
+br_inflacao;IBGE/SIDRA;1737;2020;fim da janela;48;2024-02-01;4.5;4.5;0.0;CONFERE;2026-11-18 03:03:41.546507;https://sidra.ibge.gov.br/tabela/1737
+br_juros;Ipeadata;PAN12_TJOVER12;1981-1982;pico;0;1981-07-01;92.2945689097581;92.2945689097581;0.0;CONFERE;2026-11-18 03:03:39.496161;http://www.ipeadata.gov.br/
+br_juros;Ipeadata;PAN12_TJOVER12;1981-1982;fim da janela;48;1985-07-01;214.871501770802;214.871501770802;0.0;CONFERE;2026-11-18 03:03:39.496161;http://www.ipeadata.gov.br/
+br_juros;Ipeadata;PAN12_TJOVER12;2007-2009;pico;0;2007-12-01;10.5589852792566;10.5589852792566;0.0;CONFERE;2026-11-18 03:03:39.496161;http://www.ipeadata.gov.br/
+br_juros;Ipeadata;PAN12_TJOVER12;2007-2009;fim da janela;48;2011-12-01;11.4834690032744;11.4834690032744;0.0;CONFERE;2026-11-18 03:03:39.496161;http://www.ipeadata.gov.br/
+br_juros;Ipeadata;PAN12_TJOVER12;2020;pico;0;2020-02-01;3.53604607534075;3.53604607534075;0.0;CONFERE;2026-11-18 03:03:39.496161;http://www.ipeadata.gov.br/
+br_juros;Ipeadata;PAN12_TJOVER12;2020;fim da janela;48;2024-02-01;10.0338693716146;10.0338693716146;0.0;CONFERE;2026-11-18 03:03:39.496161;http://www.ipeadata.gov.br/
+br_pib_trim;IBGE/SIDRA;1621;2007-2009;pico;0;2007-10-01;144.42;144.42;0.0;CONFERE;2026-11-18 03:03:46.636797;https://sidra.ibge.gov.br/tabela/1621
+br_pib_trim;IBGE/SIDRA;1621;2007-2009;pior valor;5;2009-01-01;143.82;143.82;0.0;CONFERE;2026-11-18 03:03:46.636797;https://sidra.ibge.gov.br/tabela/1621
+br_pib_trim;IBGE/SIDRA;1621;2007-2009;fim da janela;16;2011-10-01;167.62;167.62;0.0;CONFERE;2026-11-18 03:03:46.636797;https://sidra.ibge.gov.br/tabela/1621
+br_pib_trim;IBGE/SIDRA;1621;2020;pico;0;2019-10-01;172.03;172.03;0.0;CONFERE;2026-11-18 03:03:46.636797;https://sidra.ibge.gov.br/tabela/1621
+br_pib_trim;IBGE/SIDRA;1621;2020;pior valor;2;2020-04-01;153.17;153.17;0.0;CONFERE;2026-11-18 03:03:46.636797;https://sidra.ibge.gov.br/tabela/1621
+br_pib_trim;IBGE/SIDRA;1621;2020;fim da janela;16;2023-10-01;185.14;185.14;0.0;CONFERE;2026-11-18 03:03:46.636797;https://sidra.ibge.gov.br/tabela/1621
+br_prod_ind;IBGE/SIDRA;8888/v12607/c544[129314];2007-2009;pico;0;2007-12-01;115.24982;115.24982;0.0;CONFERE;2026-11-18 02:43:01.601889;https://sidra.ibge.gov.br/tabela/8888
+br_prod_ind;IBGE/SIDRA;8888/v12607/c544[129314];2007-2009;pior valor;12;2008-12-01;97.71143;97.71143;0.0;CONFERE;2026-11-18 02:43:01.601889;https://sidra.ibge.gov.br/tabela/8888
+br_prod_ind;IBGE/SIDRA;8888/v12607/c544[129314];2007-2009;fim da janela;48;2011-12-01;119.39968;119.39968;0.0;CONFERE;2026-11-18 02:43:01.601889;https://sidra.ibge.gov.br/tabela/8888
+br_prod_ind;IBGE/SIDRA;8888/v12607/c544[129314];2020;pico;0;2020-02-01;101.8865;101.8865;0.0;CONFERE;2026-11-18 02:43:01.601889;https://sidra.ibge.gov.br/tabela/8888
+br_prod_ind;IBGE/SIDRA;8888/v12607/c544[129314];2020;pior valor;2;2020-04-01;75.36144;75.36144;0.0;CONFERE;2026-11-18 02:43:01.601889;https://sidra.ibge.gov.br/tabela/8888
+br_prod_ind;IBGE/SIDRA;8888/v12607/c544[129314];2020;fim da janela;48;2024-02-01;101.72565;101.72565;0.0;CONFERE;2026-11-18 02:43:01.601889;https://sidra.ibge.gov.br/tabela/8888
+br_prod_ind_antiga;Ipeadata;PIMPFN12_QIIG12;1981-1982;pico;0;1981-07-01;75.1346150267504;75.1346150267504;0.0;CONFERE;2026-11-18 03:03:36.531662;http://www.ipeadata.gov.br/
+br_prod_ind_antiga;Ipeadata;PIMPFN12_QIIG12;1981-1982;pior valor;24;1983-07-01;68.9722516864387;68.9722516864387;0.0;CONFERE;2026-11-18 03:03:36.531662;http://www.ipeadata.gov.br/
+br_prod_ind_antiga;Ipeadata;PIMPFN12_QIIG12;1981-1982;fim da janela;48;1985-07-01;84.616951616655;84.616951616655;0.0;CONFERE;2026-11-18 03:03:36.531662;http://www.ipeadata.gov.br/
+eua_acoes;FRED;SPASTT01USM661N;1981-1982;pico;0;1981-07-01;7.425051;7.425051;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;1981-1982;pior valor;13;1982-08-01;6.230021;6.230021;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;1981-1982;fim da janela;48;1985-07-01;11.05607;11.05607;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;2007-2009;pico;0;2007-12-01;91.88258;91.88258;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;2007-2009;pior valor;15;2009-03-01;44.39098;44.39098;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;2007-2009;fim da janela;48;2011-12-01;69.36818;69.36818;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;2020;pico;0;2020-02-01;128.6936;128.6936;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;2020;pior valor;1;2020-03-01;100.458;100.458;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_acoes;FRED;SPASTT01USM661N;2020;fim da janela;48;2024-02-01;162.4479;162.4479;0.0;CONFERE;2026-11-18 03:03:47.483361;https://fred.stlouisfed.org/series/SPASTT01USM661N
+eua_desemprego;FRED;UNRATE;1981-1982;pico;0;1981-07-01;7.2;7.2;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;1981-1982;pior valor;16;1982-11-01;10.8;10.8;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;1981-1982;fim da janela;48;1985-07-01;7.4;7.4;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;2007-2009;pico;0;2007-12-01;5.0;5.0;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;2007-2009;pior valor;22;2009-10-01;10.0;10.0;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;2007-2009;fim da janela;48;2011-12-01;8.5;8.5;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;2020;pico;0;2020-02-01;3.5;3.5;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;2020;pior valor;2;2020-04-01;14.8;14.8;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_desemprego;FRED;UNRATE;2020;fim da janela;48;2024-02-01;3.9;3.9;0.0;CONFERE;2026-11-18 03:03:37.694422;https://fred.stlouisfed.org/series/UNRATE
+eua_inflacao;FRED;CPIAUCSL;1981-1982;pico;0;1981-07-01;91.5;91.5;0.0;CONFERE;2026-11-18 03:03:40.928688;https://fred.stlouisfed.org/series/CPIAUCSL
+eua_inflacao;FRED;CPIAUCSL;1981-1982;fim da janela;48;1985-07-01;107.7;107.7;0.0;CONFERE;2026-11-18 03:03:40.928688;https://fred.stlouisfed.org/series/CPIAUCSL
+eua_inflacao;FRED;CPIAUCSL;2007-2009;pico;0;2007-12-01;211.445;211.445;0.0;CONFERE;2026-11-18 03:03:40.928688;https://fred.stlouisfed.org/series/CPIAUCSL
+eua_inflacao;FRED;CPIAUCSL;2007-2009;fim da janela;48;2011-12-01;227.223;227.223;0.0;CONFERE;2026-11-18 03:03:40.928688;https://fred.stlouisfed.org/series/CPIAUCSL
+eua_inflacao;FRED;CPIAUCSL;2020;pico;0;2020-02-01;259.25;259.25;0.0;CONFERE;2026-11-18 03:03:40.928688;https://fred.stlouisfed.org/series/CPIAUCSL
+eua_inflacao;FRED;CPIAUCSL;2020;fim da janela;48;2024-02-01;310.967;310.967;0.0;CONFERE;2026-11-18 03:03:40.928688;https://fred.stlouisfed.org/series/CPIAUCSL
+eua_juros;FRED;FEDFUNDS;1981-1982;pico;0;1981-07-01;19.04;19.04;0.0;CONFERE;2026-11-18 03:03:39.213952;https://fred.stlouisfed.org/series/FEDFUNDS
+eua_juros;FRED;FEDFUNDS;1981-1982;fim da janela;48;1985-07-01;7.88;7.88;0.0;CONFERE;2026-11-18 03:03:39.213952;https://fred.stlouisfed.org/series/FEDFUNDS
+eua_juros;FRED;FEDFUNDS;2007-2009;pico;0;2007-12-01;4.24;4.24;0.0;CONFERE;2026-11-18 03:03:39.213952;https://fred.stlouisfed.org/series/FEDFUNDS
+eua_juros;FRED;FEDFUNDS;2007-2009;fim da janela;48;2011-12-01;0.07;0.07;0.0;CONFERE;2026-11-18 03:03:39.213952;https://fred.stlouisfed.org/series/FEDFUNDS
+eua_juros;FRED;FEDFUNDS;2020;pico;0;2020-02-01;1.58;1.58;0.0;CONFERE;2026-11-18 03:03:39.213952;https://fred.stlouisfed.org/series/FEDFUNDS
+eua_juros;FRED;FEDFUNDS;2020;fim da janela;48;2024-02-01;5.33;5.33;0.0;CONFERE;2026-11-18 03:03:39.213952;https://fred.stlouisfed.org/series/FEDFUNDS
+eua_pib;FRED;GDPC1;1981-1982;pico;0;1981-07-01;7492.405;7492.405;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;1981-1982;pior valor;2;1982-01-01;7295.631;7295.631;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;1981-1982;fim da janela;16;1985-07-01;8604.22;8604.22;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;2007-2009;pico;0;2007-10-01;16915.191;16915.191;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;2007-2009;pior valor;6;2009-04-01;16269.145;16269.145;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;2007-2009;fim da janela;16;2011-10-01;17222.583;17222.583;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;2020;pico;0;2019-10-01;20985.448;20985.448;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;2020;pior valor;2;2020-04-01;19077.992;19077.992;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_pib;FRED;GDPC1;2020;fim da janela;16;2023-10-01;23033.25;23033.25;0.0;CONFERE;2026-11-18 03:03:46.249978;https://fred.stlouisfed.org/series/GDPC1
+eua_prod_ind;FRED;INDPRO;1981-1982;pico;0;1981-07-01;51.7471;51.7471;0.0;CONFERE;2026-11-18 03:03:36.262451;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;1981-1982;pior valor;17;1982-12-01;46.9485;46.9485;0.0;CONFERE;2026-11-18 03:03:36.262451;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;1981-1982;fim da janela;48;1985-07-01;54.5396;54.5396;0.0;CONFERE;2026-11-18 03:03:36.262451;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;2007-2009;pico;0;2007-12-01;102.3803;102.3803;0.0;CONFERE;2026-11-18 02:54:21.662540;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;2007-2009;pior valor;18;2009-06-01;84.7459;84.7459;0.0;CONFERE;2026-11-18 02:54:21.662540;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;2007-2009;fim da janela;48;2011-12-01;96.3571;96.3571;0.0;CONFERE;2026-11-18 02:54:21.662540;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;2020;pico;0;2020-02-01;101.3735;101.3735;0.0;CONFERE;2026-11-18 02:54:21.662540;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;2020;pior valor;2;2020-04-01;84.5619;84.5619;0.0;CONFERE;2026-11-18 02:54:21.662540;https://fred.stlouisfed.org/series/INDPRO
+eua_prod_ind;FRED;INDPRO;2020;fim da janela;48;2024-02-01;100.285;100.285;0.0;CONFERE;2026-11-18 02:54:21.662540;https://fred.stlouisfed.org/series/INDPRO

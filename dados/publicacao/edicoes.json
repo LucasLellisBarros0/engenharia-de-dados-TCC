@@ -1,0 +1,41 @@
+{
+  "versao_contrato": 1,
+  "edicoes": [
+    {
+      "id_edicao": "20261117-2243",
+      "publicado_em": "2026-11-17T22:43:01-04:00",
+      "data_corte": "2026-11-17",
+      "manifesto": "edicoes/20261117-2243/manifesto.json"
+    },
+    {
+      "id_edicao": "20261117-2254",
+      "publicado_em": "2026-11-17T22:54:22-04:00",
+      "data_corte": "2026-11-17",
+      "manifesto": "edicoes/20261117-2254/manifesto.json"
+    },
+    {
+      "id_edicao": "20261117-2303",
+      "publicado_em": "2026-11-17T23:03:49-04:00",
+      "data_corte": "2026-11-17",
+      "manifesto": "edicoes/20261117-2303/manifesto.json"
+    },
+    {
+      "id_edicao": "20261117-2317",
+      "publicado_em": "2026-11-17T23:17:56-04:00",
+      "data_corte": "2026-11-17",
+      "manifesto": "edicoes/20261117-2317/manifesto.json"
+    },
+    {
+      "id_edicao": "20261118-1349",
+      "publicado_em": "2026-11-18T13:49:47-04:00",
+      "data_corte": "2026-11-18",
+      "manifesto": "edicoes/20261118-1349/manifesto.json"
+    },
+    {
+      "id_edicao": "20261118-2115",
+      "publicado_em": "2026-11-18T21:15:24-04:00",
+      "data_corte": "2026-11-18",
+      "manifesto": "edicoes/20261118-2115/manifesto.json"
+    }
+  ]
+}

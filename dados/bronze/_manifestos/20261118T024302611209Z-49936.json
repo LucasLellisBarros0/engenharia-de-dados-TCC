@@ -1,0 +1,30 @@
+{
+  "id_execucao": "20261118T024302611209Z-49936",
+  "gerado_em": "2026-11-18T02:43:03.258274+00:00",
+  "arquivos": [
+    {
+      "id_serie": "br_prod_ind",
+      "fonte": "IBGE/SIDRA",
+      "codigo_origem": "8888/v12607/c544[129314]",
+      "inicio": "2004-12-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://apisidra.ibge.gov.br/values/t/8888/n1/all/v/12607/p/200412-202602/c544/129314",
+      "parametros": {},
+      "coletado_em": "2026-11-18T02:43:03.257099+00:00",
+      "status_http": 200,
+      "tamanho": 90075,
+      "sha256": "ffdc37e33e72e5a460c59efafe96a32446fcd55b9640eeee4458779998ed51b2",
+      "caminho": "bronze/sidra/br_prod_ind/20261118T024303257099Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-18T02:43:02+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.644
+        }
+      ]
+    }
+  ]
+}

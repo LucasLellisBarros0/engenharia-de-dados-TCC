@@ -1,0 +1,19 @@
+{
+  "id_execucao": "20261118T024302611209Z-49936",
+  "inicio": "2026-11-18T02:43:02.611209+00:00",
+  "fim": "2026-11-18T02:43:03.330483+00:00",
+  "comando": "atualizar",
+  "series_processadas": 1,
+  "registros": 0,
+  "status": "FALHA",
+  "id_edicao": null,
+  "erro": "FileExistsError: edição 20261117-2243 já existe em C:\\Users\\lelli\\tcc-local\\dados\\publicacao\\edicoes\\20261117-2243\nTraceback (most recent call last):\n  File \"C:\\Users\\lelli\\OneDrive\\Documentos\\TCC-engenharia de dados\\src\\tcc_pipeline\\pipeline.py\", line 83, in executar\n    res = publicar(raiz_pub, tabelas, id_edicao, agora, agora.date(),\n                   cfg.regras[\"cobertura_minima\"])\n  File \"C:\\Users\\lelli\\OneDrive\\Documentos\\TCC-engenharia de dados\\src\\tcc_pipeline\\publicacao.py\", line 104, in publicar\n    raise FileExistsError(f\"edição {id_edicao} já existe em {final}\")\nFileExistsError: edição 20261117-2243 já existe em C:\\Users\\lelli\\tcc-local\\dados\\publicacao\\edicoes\\20261117-2243\n",
+  "observacao": null,
+  "series": [
+    "br_prod_ind"
+  ],
+  "episodios": [
+    "2007-2009",
+    "2020"
+  ]
+}
