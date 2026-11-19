@@ -5,7 +5,7 @@
   "id_serie_br": "br_producao_industrial",
   "defasagem_meses": 14,
   "diferenca_variacao": 0.92,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -13,7 +13,7 @@
   "id_serie_br": "br_producao_industrial",
   "defasagem_meses": 6,
   "diferenca_variacao": 2.01,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -21,7 +21,7 @@
   "id_serie_br": "br_producao_industrial",
   "defasagem_meses": 0,
   "diferenca_variacao": -9.45,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
@@ -29,7 +29,7 @@
   "id_serie_br": "br_pib",
   "defasagem_meses": null,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -37,7 +37,7 @@
   "id_serie_br": "br_pib",
   "defasagem_meses": null,
   "diferenca_variacao": 3.4,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -45,7 +45,7 @@
   "id_serie_br": "br_pib",
   "defasagem_meses": 0,
   "diferenca_variacao": -1.87,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
@@ -53,7 +53,7 @@
   "id_serie_br": "br_desemprego",
   "defasagem_meses": null,
   "diferenca_variacao": -2.94,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -61,7 +61,7 @@
   "id_serie_br": "br_desemprego",
   "defasagem_meses": null,
   "diferenca_variacao": -5.0,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -69,15 +69,15 @@
   "id_serie_br": "br_desemprego",
   "defasagem_meses": 1,
   "diferenca_variacao": -7.71,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
   "id_serie_eua": "us_juros",
   "id_serie_br": "br_juros",
-  "defasagem_meses": 2,
+  "defasagem_meses": 0,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -85,15 +85,15 @@
   "id_serie_br": "br_juros",
   "defasagem_meses": 4,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
   "id_serie_eua": "us_juros",
   "id_serie_br": "br_juros",
-  "defasagem_meses": 3,
+  "defasagem_meses": 1,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
@@ -101,7 +101,7 @@
   "id_serie_br": "br_inflacao",
   "defasagem_meses": -3,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -109,7 +109,7 @@
   "id_serie_br": "br_inflacao",
   "defasagem_meses": -2,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -117,7 +117,7 @@
   "id_serie_br": "br_inflacao",
   "defasagem_meses": 0,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
@@ -125,7 +125,7 @@
   "id_serie_br": "br_acoes",
   "defasagem_meses": null,
   "diferenca_variacao": 19.0,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -133,7 +133,7 @@
   "id_serie_br": "br_acoes",
   "defasagem_meses": 1,
   "diferenca_variacao": 6.17,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -141,7 +141,7 @@
   "id_serie_br": "br_acoes",
   "defasagem_meses": 0,
   "diferenca_variacao": -8.37,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
@@ -149,7 +149,7 @@
   "id_serie_br": "br_exportacoes_total",
   "defasagem_meses": 2,
   "diferenca_variacao": -16.82,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -157,7 +157,7 @@
   "id_serie_br": "br_exportacoes_total",
   "defasagem_meses": 8,
   "diferenca_variacao": -5.8,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -165,7 +165,7 @@
   "id_serie_br": "br_exportacoes_total",
   "defasagem_meses": null,
   "diferenca_variacao": 4.14,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "1981-1982",
@@ -173,7 +173,7 @@
   "id_serie_br": "br_exportacoes_eua",
   "defasagem_meses": null,
   "diferenca_variacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2007-2009",
@@ -181,7 +181,7 @@
   "id_serie_br": "br_exportacoes_eua",
   "defasagem_meses": -2,
   "diferenca_variacao": -33.29,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_episodio": "2020",
@@ -189,6 +189,6 @@
   "id_serie_br": "br_exportacoes_eua",
   "defasagem_meses": 3,
   "diferenca_variacao": -13.47,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  }
 ]

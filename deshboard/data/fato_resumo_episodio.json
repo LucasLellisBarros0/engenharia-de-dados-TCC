@@ -7,7 +7,7 @@
   "meses_ate_recuperacao": 28,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 4,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_producao_industrial",
@@ -17,7 +17,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_recuperado",
   "mes_reacao": 5,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_producao_industrial",
@@ -27,7 +27,7 @@
   "meses_ate_recuperacao": 25,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_producao_industrial",
@@ -37,7 +37,7 @@
   "meses_ate_recuperacao": 33,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 18,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_producao_industrial",
@@ -47,7 +47,7 @@
   "meses_ate_recuperacao": 24,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 11,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_producao_industrial",
@@ -57,7 +57,7 @@
   "meses_ate_recuperacao": 7,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_pib",
@@ -67,7 +67,7 @@
   "meses_ate_recuperacao": 21,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 3,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_pib",
@@ -77,7 +77,7 @@
   "meses_ate_recuperacao": 36,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 12,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_pib",
@@ -87,7 +87,7 @@
   "meses_ate_recuperacao": 15,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 3,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_pib",
@@ -97,7 +97,7 @@
   "meses_ate_recuperacao": 18,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_pib",
@@ -107,7 +107,7 @@
   "meses_ate_recuperacao": 21,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 3,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_desemprego",
@@ -117,7 +117,7 @@
   "meses_ate_recuperacao": 43,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 3,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_desemprego",
@@ -127,7 +127,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_recuperado",
   "mes_reacao": 6,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_desemprego",
@@ -137,7 +137,7 @@
   "meses_ate_recuperacao": 34,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_desemprego",
@@ -147,7 +147,7 @@
   "meses_ate_recuperacao": 7,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_desemprego",
@@ -157,7 +157,7 @@
   "meses_ate_recuperacao": 1,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_desemprego",
@@ -167,7 +167,7 @@
   "meses_ate_recuperacao": 23,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 2,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_juros",
@@ -177,7 +177,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_juros",
@@ -187,7 +187,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 2,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_juros",
@@ -197,7 +197,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 2,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_juros",
@@ -206,8 +206,8 @@
   "meses_ate_vale": null,
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
-  "mes_reacao": 3,
-  "id_edicao": "20261118-1349"
+  "mes_reacao": 1,
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_juros",
@@ -217,7 +217,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 6,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_juros",
@@ -226,8 +226,8 @@
   "meses_ate_vale": null,
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
-  "mes_reacao": 5,
-  "id_edicao": "20261118-1349"
+  "mes_reacao": 3,
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_inflacao",
@@ -237,7 +237,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 4,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_inflacao",
@@ -247,7 +247,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 7,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_inflacao",
@@ -257,7 +257,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 2,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_inflacao",
@@ -267,7 +267,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_inflacao",
@@ -277,7 +277,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 5,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_inflacao",
@@ -287,7 +287,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_se_aplica",
   "mes_reacao": 2,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_acoes",
@@ -297,7 +297,7 @@
   "meses_ate_recuperacao": 17,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 6,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_acoes",
@@ -307,7 +307,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_recuperado",
   "mes_reacao": 6,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_acoes",
@@ -317,7 +317,7 @@
   "meses_ate_recuperacao": 10,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_acoes",
@@ -327,7 +327,7 @@
   "meses_ate_recuperacao": 18,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_acoes",
@@ -337,7 +337,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_recuperado",
   "mes_reacao": 7,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_acoes",
@@ -347,7 +347,7 @@
   "meses_ate_recuperacao": 9,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_exportacoes_total",
@@ -357,7 +357,7 @@
   "meses_ate_recuperacao": 28,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 4,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_exportacoes_total",
@@ -367,7 +367,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_recuperado",
   "mes_reacao": 5,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_exportacoes_total",
@@ -377,7 +377,7 @@
   "meses_ate_recuperacao": 25,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_exportacoes_total",
@@ -387,7 +387,7 @@
   "meses_ate_recuperacao": 34,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 6,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_exportacoes_total",
@@ -397,7 +397,7 @@
   "meses_ate_recuperacao": 27,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 13,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_exportacoes_total",
@@ -407,7 +407,7 @@
   "meses_ate_recuperacao": 10,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": null,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_exportacoes_eua",
@@ -417,7 +417,7 @@
   "meses_ate_recuperacao": 28,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 4,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_exportacoes_eua",
@@ -427,7 +427,7 @@
   "meses_ate_recuperacao": null,
   "situacao_recuperacao": "nao_recuperado",
   "mes_reacao": 5,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "us_exportacoes_eua",
@@ -437,7 +437,7 @@
   "meses_ate_recuperacao": 25,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 1,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_exportacoes_eua",
@@ -447,7 +447,7 @@
   "meses_ate_recuperacao": 47,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 3,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  },
  {
   "id_serie": "br_exportacoes_eua",
@@ -457,6 +457,6 @@
   "meses_ate_recuperacao": 12,
   "situacao_recuperacao": "recuperado",
   "mes_reacao": 4,
-  "id_edicao": "20261118-1349"
+  "id_edicao": "20261118-2115"
  }
 ]

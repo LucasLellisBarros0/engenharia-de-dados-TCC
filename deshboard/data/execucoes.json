@@ -86,5 +86,16 @@
   "registros": 12806,
   "id_edicao": "20261118-1349",
   "observacao": ""
+ },
+ {
+  "id_execucao": "20261119T011510695318Z-3916",
+  "inicio": "2026-11-18T21:15",
+  "duracao_min": 0.2,
+  "tipo": "atualizacao",
+  "status": "sucesso",
+  "series_processadas": 20,
+  "registros": 12804,
+  "id_edicao": "20261118-2115",
+  "observacao": ""
  }
 ]

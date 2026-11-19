@@ -211,7 +211,7 @@
    },
    {
     "data": "1980-01",
-    "descricao": "PME antiga (desemprego aberto, referência 30 dias, regiões metropolitanas). Começa em 1980-01: os meses de 1979-07 a 1979-12 da janela de exibição ficam sem dados."
+    "descricao": "PME antiga (desemprego aberto, referência 30 dias, regiões metropolitanas). Começa em 1980-01: os meses de 1979-07 a 1979-12 da janela de exibição ficam sem dados. O Ipeadata documenta a origem da série apenas para 1982-1989; os valores de 1980-1981 não têm origem documentada e foram mantidos por coerência com a sequência, sem quebra entre 1981 e 1982."
    },
    {
     "data": "2017-02",
@@ -262,7 +262,7 @@
  },
  {
   "id": "br_juros",
-  "codigo": "PAN12_TJOVER12",
+  "codigo": "BM12_TJOVER12",
   "nome": "Juros básicos",
   "pais": "BR",
   "grupo": "juros",
@@ -272,23 +272,23 @@
    "produtor": "Banco Central do Brasil",
    "url": "http://www.ipeadata.gov.br/"
   },
-  "unidade_original": "% a.a.",
+  "unidade_original": "% a.a. (acumulada no mês, anualizada por dias úteis, base 252)",
   "unidade_painel": "Variação em p.p. desde o pico",
   "frequencia": "mensal",
   "ajuste_sazonal": false,
   "metodo": {
    "tipo": "pp",
    "versao": "1",
-   "descricao": "valor da fonte, sem tratamento adicional; normalizado como diferença em p.p. em relação ao pico (texto 7.3)"
+   "descricao": "taxa acumulada no mês convertida para % a.a. pelos dias úteis do mês (feriados nacionais), base de 252 dias úteis; normalizado como diferença em p.p. em relação ao pico (texto 7.3)"
   },
   "sentido_crise": "neutro",
   "limiar_reacao": 1.0,
   "periodo_inicio": "1974-01",
-  "periodo_fim": "2026-11",
+  "periodo_fim": "2026-10",
   "mudancas_metodologia": [
    {
     "data": "1974-01",
-    "descricao": "Em 1981-1982 a taxa nominal acompanha a inflação da época; fora de H1 (D25)."
+    "descricao": "Em 1981-1982 a taxa nominal acompanha a inflação da época; fora de H1 (D25). Não há série oficial do Banco Central para conferir os valores anteriores a ago/1986. Taxa acumulada no mês anualizada pelos dias úteis (feriados nacionais), base 252 (D40); em 1981-1982 a base de 252 dias úteis é hipótese do trabalho."
    }
   ],
   "id_serie_par": "us_juros",
