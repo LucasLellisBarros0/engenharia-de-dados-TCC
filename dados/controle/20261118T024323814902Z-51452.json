@@ -1,0 +1,19 @@
+{
+  "id_execucao": "20261118T024323814902Z-51452",
+  "inicio": "2026-11-18T02:43:23.814902+00:00",
+  "fim": "2026-11-18T02:43:24.695519+00:00",
+  "comando": "atualizar",
+  "series_processadas": 1,
+  "registros": 739,
+  "status": "SEM_ALTERACOES",
+  "id_edicao": null,
+  "erro": null,
+  "observacao": "conteúdo igual ao da edição ativa 20261117-2243",
+  "series": [
+    "br_prod_ind"
+  ],
+  "episodios": [
+    "2007-2009",
+    "2020"
+  ]
+}

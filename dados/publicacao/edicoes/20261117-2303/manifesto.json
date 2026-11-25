@@ -1,0 +1,92 @@
+{
+  "versao_contrato": 1,
+  "id_edicao": "20261117-2303",
+  "publicado_em": "2026-11-17T23:03:49-04:00",
+  "data_corte": "2026-11-17",
+  "arquivos": [
+    {
+      "arquivo": "dim_serie.parquet",
+      "linhas": 19,
+      "sha256": "63221647b31e3ddf726adf2af1b7a0407688ff37359f0fccfd7fa3eb0ddc95dd",
+      "sha256_conteudo": "d85c2f2acb109dabaec5bbe254d144b7dd474416693ae6dc04c042b0d0370471"
+    },
+    {
+      "arquivo": "dim_episodio.parquet",
+      "linhas": 3,
+      "sha256": "65bd56116f12b14d244722bb3b0fa250d4b7a1a153316440db7a6507d5176c87",
+      "sha256_conteudo": "ddd29e4c671c99e6b7c937dc3fe6592c5cc523f7b2a9ddf2e8bbdf90f1672218"
+    },
+    {
+      "arquivo": "dim_tempo.parquet",
+      "linhas": 825,
+      "sha256": "50e2d95433fb19852378e24946c5585a617244dcf57af9ca51d3789a28fd35c7",
+      "sha256_conteudo": "910c37e04812287431872fdffa7aed1572bcd1eff77ff24e26966a921ecb91af"
+    },
+    {
+      "arquivo": "dim_metodo.parquet",
+      "linhas": 8,
+      "sha256": "a8e10532729c69d0f50998c58b067970cae791e8b1c74f2962a8875904a561de",
+      "sha256_conteudo": "2e05199fa7439f2bd4802f43f912394a219559991b4e5f225683de5a8de8d464"
+    },
+    {
+      "arquivo": "dim_edicao.parquet",
+      "linhas": 1,
+      "sha256": "3436e2c2c4d7e52d8a05cc9e5818e2d2592c8d130b2a29b0b7bdc84e20fc9692",
+      "sha256_conteudo": "fac57292feb458ccdf446f6d7628b500805cfe29b961126d2e21c9ffc21696f5"
+    },
+    {
+      "arquivo": "ponte_serie_br_eua.parquet",
+      "linhas": 24,
+      "sha256": "a9b9d0717ef403867f9ebb9b9aca6849a4b9ebf5a5a393922f5f138c7f1572f6",
+      "sha256_conteudo": "a295f06e1046658abbfadb3fdd0a7afa9637eaf1d3c7b2c90433e6eab01bed47"
+    },
+    {
+      "arquivo": "fato_valor_mensal.parquet",
+      "linhas": 7254,
+      "sha256": "57d18dfe4ca3c9817c69ace3f104f57d5e2a94dba2c7bb44b042c98d9b8d316e",
+      "sha256_conteudo": "897e19c77dcd8dd9994f0b6c1642dee157339a28cad5335abd9cf3ed283c6bbf"
+    },
+    {
+      "arquivo": "fato_valor_trimestral.parquet",
+      "linhas": 275,
+      "sha256": "9c245be92e0a92d1ab7199153f6b7577e28e7970fbc0e75c82a1ecc64ed3e9da",
+      "sha256_conteudo": "cada0ec25846496bb0734fafb8f78f4b2971279b051383113d6f788972cf4c6b"
+    },
+    {
+      "arquivo": "fato_serie_alinhada_mensal.parquet",
+      "linhas": 4142,
+      "sha256": "0d08bed481209855e942325cec1887bf82cd2e00bb5dcdf56d969890c28e2e5f",
+      "sha256_conteudo": "581e88bfdd9434e65a9fd26e82c3be793d32ae60b0ad331dd941b9ad636539dd"
+    },
+    {
+      "arquivo": "fato_serie_alinhada_trimestral.parquet",
+      "linhas": 185,
+      "sha256": "5851fe2ee5a77a2de3feba1f55f081db0a76c3b431ded1a37af1e2052e959b11",
+      "sha256_conteudo": "4cca138f584e4e5b9b75797fe5a2744a0776f32167efd10ec27b994ef9e3a50b"
+    },
+    {
+      "arquivo": "fato_resumo_episodio.parquet",
+      "linhas": 43,
+      "sha256": "eed019f3deb23a9cfd4234c4b952be225d810c8b979a1d459a51aa76549e5525",
+      "sha256_conteudo": "34f4200350e59576eabdef9cf548e2e3f139906e8894cc09159c501d652bf601"
+    },
+    {
+      "arquivo": "fato_comparacao.parquet",
+      "linhas": 24,
+      "sha256": "a8b34ee29f7d5bd9a552b87fc182f1c835aefb1f0ec6de8d37b27cc6563cf764",
+      "sha256_conteudo": "3b4653a2b5a5c4c193525746e5fe4b92a6b08d5b5b06bf19bc3fc6754d3c3d54"
+    },
+    {
+      "arquivo": "resultado_hipotese.parquet",
+      "linhas": 3,
+      "sha256": "a6e24830ce3f81494d5c3f9b97efca185d68fb86653abe5bbed8b496641722b1",
+      "sha256_conteudo": "574d479e136856ce256e2f44e0e1c72f1f33ebcbf28bb958adcb5872602b6f13"
+    },
+    {
+      "arquivo": "observacao_rejeitada.parquet",
+      "linhas": 0,
+      "sha256": "a889daa75b1477b03f9370bfed92eaf7d2af12c6e3eb6025f9aa15306d567b3d",
+      "sha256_conteudo": "b8575ec3539f080824e25d658f5310abba2894f725d4638794eb9608452cd78c"
+    }
+  ]
+}

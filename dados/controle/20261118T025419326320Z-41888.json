@@ -1,0 +1,20 @@
+{
+  "id_execucao": "20261118T025419326320Z-41888",
+  "inicio": "2026-11-18T02:54:19.326320+00:00",
+  "fim": "2026-11-18T02:54:22.491763+00:00",
+  "comando": "atualizar",
+  "series_processadas": 2,
+  "registros": 1219,
+  "status": "SUCESSO",
+  "id_edicao": "20261117-2254",
+  "erro": null,
+  "observacao": null,
+  "series": [
+    "br_prod_ind",
+    "eua_prod_ind"
+  ],
+  "episodios": [
+    "2007-2009",
+    "2020"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id_execucao": "20261125T011011617666Z-48800",
+  "inicio": "2026-11-25T01:10:11.617666+00:00",
+  "fim": "2026-11-25T01:10:16.318901+00:00",
+  "comando": "reprocessar",
+  "series_processadas": 20,
+  "registros": 12804,
+  "status": "SEM_ALTERACOES",
+  "id_edicao": null,
+  "erro": null,
+  "observacao": "conteúdo igual ao da edição ativa 20261123-2037",
+  "series": [
+    "br_acoes",
+    "br_cambio_real",
+    "br_desemprego_pme_antiga",
+    "br_desemprego_pme_nova",
+    "br_desemprego_pnadc",
+    "br_export_eua",
+    "br_export_total",
+    "br_inflacao",
+    "br_ipca_indice",
+    "br_juros",
+    "br_pib_anual",
+    "br_pib_trim",
+    "br_prod_ind",
+    "br_prod_ind_antiga",
+    "eua_acoes",
+    "eua_cpi",
+    "eua_desemprego",
+    "eua_inflacao",
+    "eua_juros",
+    "eua_pib",
+    "eua_prod_ind"
+  ],
+  "episodios": [
+    "1981-1982",
+    "2007-2009",
+    "2020"
+  ]
+}

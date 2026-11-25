@@ -1,0 +1,558 @@
+{
+  "id_execucao": "20261119T011510695318Z-3916",
+  "gerado_em": "2026-11-19T01:15:24.416020+00:00",
+  "arquivos": [
+    {
+      "id_serie": "eua_prod_ind",
+      "fonte": "FRED",
+      "codigo_origem": "INDPRO",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "INDPRO",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:11.447214+00:00",
+      "status_http": 200,
+      "tamanho": 56385,
+      "sha256": "ceda2edd1cd2290445ff2661314bd9d8ffc0df9caf4acdc1d11ec1d571d7c697",
+      "caminho": "bronze/fred/eua_prod_ind/20261119T011511447214Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:10+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.75
+        }
+      ]
+    },
+    {
+      "id_serie": "br_prod_ind_antiga",
+      "fonte": "Ipeadata",
+      "codigo_origem": "PIMPFN12_QIIG12",
+      "inicio": "1978-07-01",
+      "fim": "1987-07-01",
+      "status": "OK",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='PIMPFN12_QIIG12')",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:11.753973+00:00",
+      "status_http": 200,
+      "tamanho": 62967,
+      "sha256": "eaa3ccd13925df40e9552a0752e8e2f568ccb3c9e580d42f86698d7eb8bb04f0",
+      "caminho": "bronze/ipeadata/br_prod_ind_antiga/20261119T011511753973Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:11+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.306
+        }
+      ]
+    },
+    {
+      "id_serie": "br_prod_ind",
+      "fonte": "IBGE/SIDRA",
+      "codigo_origem": "8888/v12607/c544[129314]",
+      "inicio": "2004-12-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://apisidra.ibge.gov.br/values/t/8888/n1/all/v/12607/p/200412-202602/c544/129314",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:12.237610+00:00",
+      "status_http": 200,
+      "tamanho": 90075,
+      "sha256": "ffdc37e33e72e5a460c59efafe96a32446fcd55b9640eeee4458779998ed51b2",
+      "caminho": "bronze/sidra/br_prod_ind/20261119T011512237610Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:11+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.482
+        }
+      ]
+    },
+    {
+      "id_serie": "eua_desemprego",
+      "fonte": "FRED",
+      "codigo_origem": "UNRATE",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "UNRATE",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:12.916099+00:00",
+      "status_http": 200,
+      "tamanho": 54057,
+      "sha256": "1855ae782478ea9d43290899447bfd05723d63437efe363c40bb994b3122e2cc",
+      "caminho": "bronze/fred/eua_desemprego/20261119T011512916099Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:12+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.677
+        }
+      ]
+    },
+    {
+      "id_serie": "br_desemprego_pme_antiga",
+      "fonte": "Ipeadata",
+      "codigo_origem": "PME12_TDA12",
+      "inicio": "1978-07-01",
+      "fim": "1987-07-01",
+      "status": "OK",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='PME12_TDA12')",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:13.152547+00:00",
+      "status_http": 200,
+      "tamanho": 34367,
+      "sha256": "a5a2c4c1fa7bf3c6820230581b87e55045c19f985dab2d923aa07c55f8fe45d7",
+      "caminho": "bronze/ipeadata/br_desemprego_pme_antiga/20261119T011513152547Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:12+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.235
+        }
+      ]
+    },
+    {
+      "id_serie": "br_desemprego_pme_nova",
+      "fonte": "Ipeadata",
+      "codigo_origem": "PAN12_TD12",
+      "inicio": "2004-12-01",
+      "fim": "2013-12-01",
+      "status": "OK",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='PAN12_TD12')",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:13.430156+00:00",
+      "status_http": 200,
+      "tamanho": 20432,
+      "sha256": "de542aea83f006ab79b652c3df6fe28f416a5ee26ecf95dee0584da2407048dc",
+      "caminho": "bronze/ipeadata/br_desemprego_pme_nova/20261119T011513430156Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:13+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.277
+        }
+      ]
+    },
+    {
+      "id_serie": "br_desemprego_pnadc",
+      "fonte": "IBGE/SIDRA",
+      "codigo_origem": "6381",
+      "inicio": "2017-02-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/201702-202602",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:13.830499+00:00",
+      "status_http": 200,
+      "tamanho": 34550,
+      "sha256": "f0e927ce3e02389be0db74995b7cce0be948dac2ebd76bc926636f980ad5468c",
+      "caminho": "bronze/sidra/br_desemprego_pnadc/20261119T011513830499Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:13+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.398
+        }
+      ]
+    },
+    {
+      "id_serie": "eua_juros",
+      "fonte": "FRED",
+      "codigo_origem": "FEDFUNDS",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "FEDFUNDS",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:14.525032+00:00",
+      "status_http": 200,
+      "tamanho": 54664,
+      "sha256": "ea6911ceb1399218621b7e0aa42a353d13b2476bc985047e1a163c656c8434c4",
+      "caminho": "bronze/fred/eua_juros/20261119T011514525032Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:13+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.693
+        }
+      ]
+    },
+    {
+      "id_serie": "br_juros",
+      "fonte": "Ipeadata",
+      "codigo_origem": "BM12_TJOVER12",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='BM12_TJOVER12')",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:14.819190+00:00",
+      "status_http": 200,
+      "tamanho": 80191,
+      "sha256": "76f71cca11e0488ff6f5acf6ec691989e23b3be84669e97467c9f7e1abd99141",
+      "caminho": "bronze/ipeadata/br_juros/20261119T011514819190Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:14+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.293
+        }
+      ]
+    },
+    {
+      "id_serie": "eua_inflacao",
+      "fonte": "FRED",
+      "codigo_origem": "CPIAUCSL",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "CPIAUCSL",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:15.915167+00:00",
+      "status_http": 200,
+      "tamanho": 55671,
+      "sha256": "db7e3428565dc7d192a0bba7ee16a8399efe6c2db4b64e68764f4340c5d021bc",
+      "caminho": "bronze/fred/eua_inflacao/20261119T011515915167Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:14+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 1.094
+        }
+      ]
+    },
+    {
+      "id_serie": "br_inflacao",
+      "fonte": "IBGE/SIDRA",
+      "codigo_origem": "1737",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/197807-202602",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:16.594539+00:00",
+      "status_http": 200,
+      "tamanho": 145320,
+      "sha256": "527445b79ee004d16d7f1504a85c532261df468962effb492dd00000a115cfe0",
+      "caminho": "bronze/sidra/br_inflacao/20261119T011516594539Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:15+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.678
+        }
+      ]
+    },
+    {
+      "id_serie": "br_cambio_real",
+      "fonte": "FRED",
+      "codigo_origem": "CCRETT01BRM661N",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "CCRETT01BRM661N",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:17.344572+00:00",
+      "status_http": 200,
+      "tamanho": 56843,
+      "sha256": "af8d09b5b23b3109540c526e03ef535e1d350e0bc98646ec0fa2e910ea73b2af",
+      "caminho": "bronze/fred/br_cambio_real/20261119T011517344572Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:16+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.748
+        }
+      ]
+    },
+    {
+      "id_serie": "br_export_total",
+      "fonte": "Ipeadata",
+      "codigo_origem": "SECEX12_XVTOT12",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='SECEX12_XVTOT12')",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:17.672621+00:00",
+      "status_http": 200,
+      "tamanho": 80328,
+      "sha256": "8ff2800a220506842aeb40685851f920365a4257d2fb41148d7c12cf1c3ca856",
+      "caminho": "bronze/ipeadata/br_export_total/20261119T011517672621Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:17+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.327
+        }
+      ]
+    },
+    {
+      "id_serie": "br_export_eua",
+      "fonte": "Comex Stat",
+      "codigo_origem": "exportação, país 249 (Estados Unidos)",
+      "inicio": "2004-12-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api-comexstat.mdic.gov.br/general",
+      "parametros": {
+        "language": "pt",
+        "corpo_json": {
+          "flow": "export",
+          "monthDetail": true,
+          "period": {
+            "from": "2004-01",
+            "to": "2026-12"
+          },
+          "filters": [
+            {
+              "filter": "country",
+              "values": [
+                249
+              ]
+            }
+          ],
+          "details": [
+            "country"
+          ],
+          "metrics": [
+            "metricFOB"
+          ]
+        }
+      },
+      "coletado_em": "2026-11-19T01:15:20.701482+00:00",
+      "status_http": 200,
+      "tamanho": 23924,
+      "sha256": "8cd987799416df15b12d983c9ae1d183fc2b2b023f1e5b6e98de21eade1c0860",
+      "caminho": "bronze/comexstat/br_export_eua/20261119T011520701482Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:17+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 3.027
+        }
+      ]
+    },
+    {
+      "id_serie": "eua_pib",
+      "fonte": "FRED",
+      "codigo_origem": "GDPC1",
+      "inicio": "1978-07-01",
+      "fim": "2025-10-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "GDPC1",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2025-10-01"
+      },
+      "coletado_em": "2026-11-19T01:15:21.391462+00:00",
+      "status_http": 200,
+      "tamanho": 19200,
+      "sha256": "a993c96d61756df75bd038a826a7e048343dd45feed4924e5357ce6f16c17f4a",
+      "caminho": "bronze/fred/eua_pib/20261119T011521391462Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:20+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.688
+        }
+      ]
+    },
+    {
+      "id_serie": "br_pib_trim",
+      "fonte": "IBGE/SIDRA",
+      "codigo_origem": "1621",
+      "inicio": "2004-10-01",
+      "fim": "2025-10-01",
+      "status": "OK",
+      "url": "https://apisidra.ibge.gov.br/values/t/1621/n1/all/v/584/p/200404-202504/c11255/90707",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:22.064349+00:00",
+      "status_http": 200,
+      "tamanho": 34268,
+      "sha256": "3c9daf8c6ec9ef382adefd1a15c11cd0265e3108b7839444e4d93cec4f72c38c",
+      "caminho": "bronze/sidra/br_pib_trim/20261119T011522064349Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:21+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.671
+        }
+      ]
+    },
+    {
+      "id_serie": "eua_acoes",
+      "fonte": "FRED",
+      "codigo_origem": "SPASTT01USM661N",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "SPASTT01USM661N",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:22.714384+00:00",
+      "status_http": 200,
+      "tamanho": 56843,
+      "sha256": "e7bbfb2da090738764ee6a6e9354bcbe72a07e19a016b713160d826a2457463a",
+      "caminho": "bronze/fred/eua_acoes/20261119T011522714384Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:22+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.648
+        }
+      ]
+    },
+    {
+      "id_serie": "br_acoes",
+      "fonte": "Ipeadata",
+      "codigo_origem": "GM12_IBVSP12",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GM12_IBVSP12')",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:23.002414+00:00",
+      "status_http": 200,
+      "tamanho": 97129,
+      "sha256": "7ca6876a30e45645478824fdf7be59aa553ff696a3c31396d69def9d8051c4d9",
+      "caminho": "bronze/ipeadata/br_acoes/20261119T011523002414Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:22+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.287
+        }
+      ]
+    },
+    {
+      "id_serie": "eua_cpi",
+      "fonte": "FRED",
+      "codigo_origem": "CPIAUCSL",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://api.stlouisfed.org/fred/series/observations",
+      "parametros": {
+        "series_id": "CPIAUCSL",
+        "api_key": "***",
+        "file_type": "json",
+        "observation_start": "1978-07-01",
+        "observation_end": "2026-02-01"
+      },
+      "coletado_em": "2026-11-19T01:15:23.632649+00:00",
+      "status_http": 200,
+      "tamanho": 55671,
+      "sha256": "db7e3428565dc7d192a0bba7ee16a8399efe6c2db4b64e68764f4340c5d021bc",
+      "caminho": "bronze/fred/eua_cpi/20261119T011523632649Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:23+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.628
+        }
+      ]
+    },
+    {
+      "id_serie": "br_ipca_indice",
+      "fonte": "IBGE/SIDRA",
+      "codigo_origem": "1737/v2266",
+      "inicio": "1978-07-01",
+      "fim": "2026-02-01",
+      "status": "OK",
+      "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2266/p/197807-202602",
+      "parametros": {},
+      "coletado_em": "2026-11-19T01:15:24.414781+00:00",
+      "status_http": 200,
+      "tamanho": 168285,
+      "sha256": "ea8fd922cdd4e9bfe49ac94fdb03e0b10ac3007acf1b4fa657e495581dc01c90",
+      "caminho": "bronze/sidra/br_ipca_indice/20261119T011524414781Z.json",
+      "tentativas": [
+        {
+          "numero": 1,
+          "instante_utc": "2026-11-19T01:15:23+00:00",
+          "status_http": 200,
+          "erro": null,
+          "duracao_s": 0.78
+        }
+      ]
+    }
+  ]
+}
